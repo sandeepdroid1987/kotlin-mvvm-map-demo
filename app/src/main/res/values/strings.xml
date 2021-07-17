@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Maps Demo</string>
+    <string name="country_screen_title">Country</string>
+    <string name="country_details_screen_title">Country Details</string>
+    <string name="country_title">Name</string>
+    <string name="country_capital">Capital</string>
+    <string name="country_details_location">Lat,Lng</string>
+
+    <!-- Animations -->
+    <string name="country_transition_poster">countryPosterTransition</string>
+
+    <string name="title_activity_maps">Nearby Countries</string>
+
+
+</resources>

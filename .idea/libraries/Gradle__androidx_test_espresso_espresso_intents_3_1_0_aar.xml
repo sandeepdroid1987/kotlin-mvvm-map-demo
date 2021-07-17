@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.espresso:espresso-intents:3.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20073d4cd8f40339606ab5f6c03ecff2/espresso-intents-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f3195dff075409e1da7fd637349bf1e/espresso-intents-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5533ffd1881dc29033041212a3732ab/espresso-intents-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f6fbd8ca6ea51542aedf8475b65ddaf/espresso-intents-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b61434e5fc91727744d5a6ea9efe624d/espresso-intents-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/60d1da2990bb2e279696e862a2c67e01/espresso-intents-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dd1bce80bac77b1e93f63b65b6a61696/espresso-intents-3.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f68010df0b87332a7bda5d61813dd82/espresso-intents-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f68010df0b87332a7bda5d61813dd82/espresso-intents-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f68010df0b87332a7bda5d61813dd82/espresso-intents-3.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-intents/3.1.0/3f15c54d067bd8e080a83386e06aacf365ba1b18/espresso-intents-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-intents/3.1.0/b42f2c993ed32521feea8e4b5dfa7532e821df05/espresso-intents-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

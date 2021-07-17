@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.leakcanary:leakcanary-android-no-op:1.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a711bb9cef882cf063389749688d4d12/jetified-leakcanary-android-no-op-1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a73dd930a9c71d8925afa1c0915261be/jetified-leakcanary-android-no-op-1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1c467ada8d6a850104d9bc67e89f79f7/jetified-leakcanary-android-no-op-1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71685ccd64c70815e11fb4c980e34b79/jetified-leakcanary-android-no-op-1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28fb5a797addc7ec9a9bd62910eae13b/jetified-leakcanary-android-no-op-1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/88a50bef0d542dd26dd1d3e208adef64/jetified-leakcanary-android-no-op-1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/275d4a46922e398c18f6f17ca1480e4e/jetified-leakcanary-android-no-op-1.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/49e1be7a5c9ea4ed5d840792b2fe8487/jetified-leakcanary-android-no-op-1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/49e1be7a5c9ea4ed5d840792b2fe8487/jetified-leakcanary-android-no-op-1.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/49e1be7a5c9ea4ed5d840792b2fe8487/jetified-leakcanary-android-no-op-1.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-android-no-op/1.5/1848f950910f0b13aee12cbfe9f71eccbebd76d4/leakcanary-android-no-op-1.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-android-no-op/1.5/eed5c666eecf368f30c8e81bd0c86a30f44f37a0/leakcanary-android-no-op-1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
